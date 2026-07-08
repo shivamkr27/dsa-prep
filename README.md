@@ -23,4 +23,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/shivamkr27/dsa-prep/tree/main/0062-unique-paths/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/shivamkr27/dsa-prep/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/shivamkr27/dsa-prep/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
