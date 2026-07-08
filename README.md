@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/shivamkr27/dsa-prep/tree/main/0229-majority-element-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkr27/dsa-prep/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/shivamkr27/dsa-prep/tree/main/0229-majority-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,10 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/shivamkr27/dsa-prep/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/shivamkr27/dsa-prep/tree/main/0229-majority-element-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
