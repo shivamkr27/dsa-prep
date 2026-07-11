@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shivamkr27/dsa-prep/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/shivamkr27/dsa-prep/tree/main/0018-4sum/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/shivamkr27/dsa-prep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/shivamkr27/dsa-prep/tree/main/0229-majority-element-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivamkr27/dsa-prep/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shivamkr27/dsa-prep/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/shivamkr27/dsa-prep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/shivamkr27/dsa-prep/tree/main/0229-majority-element-ii/) | Medium |
 ## Divide and Conquer
@@ -76,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/shivamkr27/dsa-prep/tree/main/0018-4sum/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivamkr27/dsa-prep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
