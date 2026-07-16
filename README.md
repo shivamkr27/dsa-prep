@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/shivamkr27/dsa-prep/tree/main/0018-4sum/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/shivamkr27/dsa-prep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkr27/dsa-prep/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/shivamkr27/dsa-prep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
