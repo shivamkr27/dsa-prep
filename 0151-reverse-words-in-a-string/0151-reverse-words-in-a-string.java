@@ -3,14 +3,29 @@ class Solution {
         char[] arr = s.toCharArray();
         int n = arr.length;
         
-        reverse(arr, 0, n - 1);
+        int left = 0, right = n - 1;
+        while (left < right) {
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+            left++;
+            right--;
+        }
         
-        int start = 0;
         StringBuilder result = new StringBuilder();
+        int start = 0;
+        
         for (int i = 0; i <= n; i++) {
             if (i == n || arr[i] == ' ') {
                 if (start != i) {
-                    reverse(arr, start, i - 1);
+                    int l = start, r = i - 1;
+                    while (l < r) {
+                        char temp = arr[l];
+                        arr[l] = arr[r];
+                        arr[r] = temp;
+                        l++;
+                        r--;
+                    }
                     if (result.length() > 0) result.append(" ");
                     result.append(arr, start, i - start);
                 }
@@ -19,15 +34,5 @@ class Solution {
         }
         
         return result.toString();
-    }
-    
-    private void reverse(char[] arr, int left, int right) {
-        while (left < right) {
-            char temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-            left++;
-            right--;
-        }
     }
 }
