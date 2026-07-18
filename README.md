@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamkr27/dsa-prep/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/shivamkr27/dsa-prep/tree/main/0062-unique-paths/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivamkr27/dsa-prep/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/shivamkr27/dsa-prep/tree/main/0018-4sum/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkr27/dsa-prep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Union-Find
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkr27/dsa-prep/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/shivamkr27/dsa-prep/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/shivamkr27/dsa-prep/tree/main/0013-roman-to-integer/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkr27/dsa-prep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Sliding Window
