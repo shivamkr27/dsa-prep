@@ -1,26 +1,28 @@
 class Solution {
     public int romanToInt(String s) {
-        Map<Character, Integer> map = new HashMap<>();
-        map.put('I', 1);
-        map.put('V', 5);
-        map.put('X', 10);
-        map.put('L', 50);
-        map.put('C', 100);
-        map.put('D', 500);
-        map.put('M', 1000);
+        int[] arr=new int[128];
+        arr['I']=1;
+        arr['V']=5;
+        arr['X']=10;
+        arr['L']=50;
+        arr['C']=100;
+        arr['D']=500;
+        arr['M']=1000;
+        int previous=0;
         
-        int result = 0;
-        int n = s.length();
+        int number=0;
         
-        for (int i = 0; i < n; i++) {
-            int curr = map.get(s.charAt(i));
-            if (i + 1 < n && curr < map.get(s.charAt(i + 1))) {
-                result -= curr;
-            } else {
-                result += curr;
+        for(int i=s.length()-1;i>=0;i--){
+           int current=arr[s.charAt(i)];
+            
+            if(current>=previous){
+                number=number+current;
             }
+            else{
+                number =number-current;
+            }
+            previous=current;
         }
-        
-        return result;
+        return number;
     }
 }
