@@ -1,27 +1,42 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        
-        int start = 0, end = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int len1 = expand(s, i, i);
-            int len2 = expand(s, i, i + 1);
-            int len = Math.max(len1, len2);
-            
-            if (len > end - start + 1) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+        String result = "";   // ab tak ka best palindrome yaha store hoga
+        int maxLength = 0;
+
+        // Kaam 1: Har possible substring banao
+        for (int start = 0; start < s.length(); start++) {
+            for (int end = start; end < s.length(); end++) {
+                
+                String substring = s.substring(start, end + 1);
+                
+                // Kaam 2: Check karo ye substring palindrome hai ya nahi
+                if (isPalindrome(substring)) {
+                    
+                    // Kaam 3: Agar isse bada palindrome mila, to update karo
+                    if (substring.length() > maxLength) {
+                        maxLength = substring.length();
+                        result = substring;
+                    }
+                }
             }
         }
-        
-        return s.substring(start, end + 1);
+
+        return result;
     }
-    
-    private int expand(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+
+    // Helper function jo check karta hai string palindrome hai ya nahi
+    private boolean isPalindrome(String str) {
+        int left = 0;
+        int right = str.length() - 1;
+
+        while (left < right) {
+            if (str.charAt(left) != str.charAt(right)) {
+                return false;   // mismatch mila, palindrome nahi hai
+            }
+            left++;
+            right--;
         }
-        return right - left - 1;
+
+        return true;   // poora loop chal gaya bina mismatch ke, matlab palindrome hai
     }
 }
