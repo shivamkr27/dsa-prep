@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shivamkr27/dsa-prep/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/shivamkr27/dsa-prep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/shivamkr27/dsa-prep/tree/main/0018-4sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shivamkr27/dsa-prep/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shivamkr27/dsa-prep/tree/main/0169-majority-element/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shivamkr27/dsa-prep/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/shivamkr27/dsa-prep/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/shivamkr27/dsa-prep/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/shivamkr27/dsa-prep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkr27/dsa-prep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/shivamkr27/dsa-prep/tree/main/0686-repeated-string-match/) | Medium |
 ## Sliding Window
@@ -105,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/shivamkr27/dsa-prep/tree/main/0686-repeated-string-match/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shivamkr27/dsa-prep/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
