@@ -7,7 +7,7 @@ class Solution {
             sb.append(a);
             count++;
         }
-        
+        //
         if (sb.toString().contains(b)) {
             return count;
         }
