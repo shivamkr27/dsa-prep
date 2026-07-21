@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkr27/dsa-prep/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/shivamkr27/dsa-prep/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/shivamkr27/dsa-prep/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/shivamkr27/dsa-prep/tree/main/0013-roman-to-integer/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shivamkr27/dsa-prep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/shivamkr27/dsa-prep/tree/main/0686-repeated-string-match/) | Medium |
